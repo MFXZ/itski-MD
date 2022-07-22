@@ -119,10 +119,10 @@ global.author = '┄┄┄┅┅❑ VYNZ ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/8423cd64e9180cbaf1355.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/9a83e32eae575746fec16.jpg'
+global.thumb = 'https://telegra.ph/file/c2a14575d87bdeaec854c.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/ad66ed2af95f753ef6ba5.jpg'
 global.giflogo = 'https://telegra.ph/file/1ab6454fe639eb7e64f5a.jpg'
-global.thumbs = ['https://telegra.ph/file/9a83e32eae575746fec16.jpg', 'https://telegra.ph/file/9a83e32eae575746fec16.jpg', 'https://telegra.ph/file/9a83e32eae575746fec16.jpg']
+global.thumbs = ['https://telegra.ph/file/c2a14575d87bdeaec854c.jpg', 'https://telegra.ph/file/c2a14575d87bdeaec854c.jpg', 'https://telegra.ph/file/c2a14575d87bdeaec854c.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
