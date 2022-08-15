@@ -48,23 +48,23 @@ global.sdc = 'https://wa.me/qr/L6MB4HVVM6OIP1'
 global.snh = 'https://youtube.com/channel/UCgaoyyeZlObOfaSSuCJaPRg'
 
 /*============== PAYMENT ==============*/
-global.pdana = '087734910547'
-global.povo = '087734910547'
-global.pgopay = '087734910547'
+global.pdana = '08981614707'
+global.povo = '08981614707'
+global.pgopay = '08981614707'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62877349105478'
-global.nomorown = '6287734910547'
-global.namebot = '⳹ ❋ཻུ۪۪⸙ItsukiMD⸙ཻུ❋⳹۪۪'  //Nama Bot Kalian
-global.nameown = 'ᴹᴿ.VynZx'  //Nama Owner Bot Kalian
+global.nomorbot = '6295332105995'
+global.nomorown = '628981614707'
+global.namebot = '⳹ ❋ཻུ۪۪⸙Soviet - Bot⸙ཻུ❋⳹۪۪'  //Nama Bot Kalian
+global.nameown = 'ᴹᴿ.MFX'  //Nama Owner Bot Kalian
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287734910547'],
-  ['6287734910547'],
-  ['6287734910547'],
-  ['6287734910547', 'VynZx', true]
+  ['628981614707'],
+  ['628981614707'],
+  ['628981614707'],
+  ['628981614707', 'MFX', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Itsuki-MD⳹ ❋ཻུ۪۪' //Main Watermark
+global.wm = '' //Main Watermark
 global.wm2 = '⳹ ❋ཻུ۪۪⸙Itsuki-MD⳹ ❋ཻུ۪۪'
 global.wm3 = '⳹ ❋ཻུ۪۪⸙Itsuki-MD⳹ ❋ཻུ۪۪'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ VYNZ ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑⳹ ❋ཻུ۪۪⸙Soviet - Bot⸙ཻུ❋ ⳹۪۪❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
@@ -150,8 +150,8 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/e3a682af4a0e117901d2e.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fsizedoc = '99999999999999999999999' // default 10TB
+global.fpagedoc = '9999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
